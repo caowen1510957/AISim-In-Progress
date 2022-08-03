@@ -1,3 +1,3 @@
 # AISim
-Why I upload .py directly without making it bin, src, etc?
-I want to have more audiences. For those who are super exprienced coders, they can easily acces my work, but for those who learn how wo code from Internet, especially some YouTubers. I believe the best way is show the code plainly.
+Why I upload .py directly without creating bin, src, etc?
+Why do I upload .py directly without making it bin, src, etc? I want to have more audiences. Those who are super experienced coders can easily access my work, but for those who learn how to code from the Internet, especially some YouTubers. I believe the best way is to show the code plainly.
