@@ -1,4 +1,4 @@
-# AISim: A reservoir simulator embedded with a neural network-based relative permeability curve
+# AISim: A reservoir simulator embedded with a neural network
 
 Why I upload .py directly without creating bin, src, etc?
 
